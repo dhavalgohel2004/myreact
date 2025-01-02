@@ -1,0 +1,20 @@
+.bg-light-grey{
+    background-color: rgb(233, 233, 233);
+}
+.rotate{
+    rotate: 15deg;
+}
+.w-85{
+    width: 85%;
+}
+.bg-dark-blue{
+    background-color: #050038;
+}
+.manual-size{
+    height: 25px;
+    width: 25px;
+}
+.p-size{
+    height: 40px;
+    width: 40px;
+}
